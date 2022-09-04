@@ -15,7 +15,7 @@ public class Main {
         System.out.println(" ");
 
 
-        System.out.println("Metodo sobreescrito de la clase hija 'perro' que nos pide un parametro");
+        System.out.println("Metodo sobrecargado de la clase hija 'perro' que nos pide un parametro");
         perro.caminoAnimal("Parque");
     }
 }
